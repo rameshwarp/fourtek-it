@@ -1,0 +1,17 @@
+System:    Host: gaurav-H81MLV3 Kernel: 4.4.0-92-generic x86_64 (64 bit)
+           Desktop: Unity 7.4.0  Distro: Ubuntu 16.04 xenial
+Machine:   Mobo: TAR model: H81MLV3 v: 5.0
+           Bios: American Megatrends v: 4.6.5 date: 05/21/2014
+CPU:       Dual core Intel Core i3-4130 (-HT-MCP-) speed/max: 2000/3400 MHz
+Graphics:  Card: Intel 4th Generation Core Processor Family Integrated Graphics Controller
+           Display Server: X.Org 1.18.4 drivers: intel (unloaded: fbdev,vesa)
+           Resolution: 1366x768@59.79hz
+           GLX Renderer: Mesa DRI Intel Haswell GLX Version: 3.0 Mesa 17.0.7
+Network:   Card-1: Realtek RTL8101/2/6E PCI Express Fast/Gigabit Ethernet controller
+           driver: r8169
+           Card-2: Realtek RTL8188EUS 802.11n Wireless Network Adapter
+           driver: r8188eu
+Drives:    HDD Total Size: 500.1GB (33.5% used)
+Info:      Processes: 221 Uptime: 5:29 Memory: 3717.9/7905.4MB
+           Client: Shell (bash) inxi: 2.2.35
+
